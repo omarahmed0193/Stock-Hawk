@@ -1,0 +1,18 @@
+<resources>
+    <string name="action_settings">الاعدادات</string>
+    <string name="symbol_search_dialog_title">البحث عن علامة</string>
+    <string name="symbol_search_dialog_message">البحث عن علامة سهم جديد</string>
+    <string name="wrong_symbol">لا يوجد علامة بهذا الاسم</string>
+    <string name="UNAUTHORIZED">يجب المصادقة</string>
+    <string name="BAD_REQUEST">مدخل خاطئ</string>
+    <string name="INTERNAL_SERVER_ERROR">هنالك خطأ في جانب السيرفر لا يمكن جلب المعلومات</string>
+    <string name="FORBIDDEN">ليس لك صلاحية لعرض هذه المعلومات</string>
+    <string name="no_internet_connection">ليس هناك اتصال بالانترنت لجلب المعلومات الان</string>
+    <string name="no_data_available">ليس هناك معلومات متاحة الان</string>
+    <string name="action_change_units">تغير الوحدات</string>
+    <string name="fetching_data">جاري جلب المعلومات</string>
+    <string name="add_new_symbol">اضافة علامة جديدة</string>
+    <string name="bid_price_is">سعر العرض هو</string>
+    <string name="the_change_is">سعر التغير هو</string>
+    <string name="the_percentage_change_is">نسبة التغير هي</string>
+</resources>

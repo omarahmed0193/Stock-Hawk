@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Stock Hawk</string>
+    <string name="action_settings">Settings</string>
+    <string name="symbol_search_dialog_title">Symbol Search</string>
+    <string name="symbol_search_dialog_message">Search for a Stock Symbol</string>
+    <string name="wrong_symbol">Symbol not found</string>
+    <string name="UNAUTHORIZED">Oops authorization required!</string>
+    <string name="BAD_REQUEST">Wrong input</string>
+    <string name="INTERNAL_SERVER_ERROR">There is a problem on the server side can\'t fetch data</string>
+    <string name="FORBIDDEN">You don\'t have access for these data</string>
+    <string name="no_internet_connection">There is no internet connection at the moment to fetch the data</string>
+    <string name="no_data_available">There is no data available at the moment</string>
+    <string name="action_change_units">Change units</string>
+    <string name="fetching_data">Fetching data</string>
+    <string name="add_new_symbol">add new symbol</string>
+    <string name="bid_price_is">the bid price is</string>
+    <string name="the_change_is">the change price is</string>
+    <string name="the_percentage_change_is">the percentage change is</string>
+</resources>
